@@ -1,8 +1,8 @@
-import Rotas from "Rotas";
+import RoutesPath from "RoutesPath";
 
 function App() {
   return (
-    <Rotas />
+    <RoutesPath />
   );
 }
 
